@@ -1,0 +1,109 @@
+name,city,state,category,budget,rating,family,solo,couple,nature,historical,adventure,shopping,food,latitude,longitude
+Lalbagh,Bengaluru,Karnataka,Garden,100,4.5,1,1,1,1,0,0,0,0,12.9507,77.5848
+Cubbon Park,Bengaluru,Karnataka,Park,100,4.4,1,1,1,1,0,0,0,0,12.9763,77.5929
+Bangalore Palace,Bengaluru,Karnataka,Historical,250,4.3,1,1,1,0,1,0,0,0,12.9987,77.592
+Nandi Hills,Bengaluru,Karnataka,Hill Station,300,4.5,1,1,1,1,0,1,0,0,13.3702,77.6835
+Wonderla,Bengaluru,Karnataka,Amusement Park,1200,4.5,1,1,1,0,0,1,0,0,12.8342,77.401
+Bannerghatta National Park,Bengaluru,Karnataka,Wildlife,300,4.2,1,1,1,1,0,1,0,0,12.8,77.577
+ISKCON Temple,Bengaluru,Karnataka,Temple,100,4.6,1,1,1,0,1,0,0,0,13.0098,77.5511
+Commercial Street,Bengaluru,Karnataka,Shopping,500,4.2,0,1,1,0,0,0,1,0,12.983,77.608
+VV Puram Food Street,Bengaluru,Karnataka,Food,300,4.4,0,1,1,0,0,0,0,1,12.9547,77.568
+Mysore Palace,Mysuru,Karnataka,Historical,200,4.7,1,1,1,0,1,0,0,0,12.3052,76.6552
+Brindavan Gardens,Mysuru,Karnataka,Garden,150,4.3,1,1,1,1,0,0,0,0,12.4218,76.572
+Chamundi Hills,Mysuru,Karnataka,Hill,100,4.5,1,1,1,1,1,0,0,0,12.272,76.67
+Mysore Zoo,Mysuru,Karnataka,Wildlife,100,4.4,1,1,1,1,0,0,0,0,12.3023,76.665
+Abbey Falls,Coorg,Karnataka,Waterfall,100,4.4,1,1,1,1,0,1,0,0,12.458,75.721
+Raja Seat,Coorg,Karnataka,Viewpoint,50,4.3,1,1,1,1,0,0,0,0,12.4244,75.7382
+Dubare Elephant Camp,Coorg,Karnataka,Wildlife,200,4.2,1,1,1,1,0,1,0,0,12.457,75.961
+Talakaveri,Coorg,Karnataka,Nature,100,4.5,1,1,1,1,1,0,0,0,12.389,75.489
+Virupaksha Temple,Hampi,Karnataka,Historical,100,4.7,1,1,1,0,1,0,0,0,15.335,76.46
+Vittala Temple,Hampi,Karnataka,Historical,200,4.7,1,1,1,0,1,0,0,0,15.335,76.486
+Hemakuta Hill,Hampi,Karnataka,Hill,50,4.5,1,1,1,1,1,1,0,0,15.3355,76.4605
+Hampi Bazaar,Hampi,Karnataka,Shopping,200,4.1,0,1,1,0,1,0,1,1,15.3355,76.459
+Baga Beach,Goa,Goa,Beach,200,4.3,1,1,1,1,0,1,0,1,15.5553,73.7517
+Calangute Beach,Goa,Goa,Beach,150,4.2,1,1,1,1,0,1,0,1,15.5439,73.7553
+Fort Aguada,Goa,Goa,Fort,100,4.4,1,1,1,0,1,0,0,0,15.4923,73.7737
+Dudhsagar Falls,Goa,Goa,Waterfall,500,4.6,1,1,1,1,0,1,0,0,15.3144,74.3143
+Gateway of India,Mumbai,Maharashtra,Historical,100,4.5,1,1,1,0,1,0,0,0,18.922,72.8347
+Marine Drive,Mumbai,Maharashtra,Seafront,100,4.6,1,1,1,1,0,0,0,1,18.9432,72.8235
+Juhu Beach,Mumbai,Maharashtra,Beach,100,4.2,1,1,1,1,0,0,0,1,19.0988,72.8267
+Siddhivinayak Temple,Mumbai,Maharashtra,Temple,50,4.6,1,1,1,0,1,0,0,0,19.0169,72.8305
+Tiger Point,Lonavala,Maharashtra,Viewpoint,100,4.3,1,1,1,1,0,1,0,0,18.705,73.372
+Bhushi Dam,Lonavala,Maharashtra,Dam,50,4.2,1,1,1,1,0,1,0,0,18.708,73.378
+Karla Caves,Lonavala,Maharashtra,Historical,100,4.4,1,1,1,0,1,0,0,0,18.782,73.47
+Lohagad Fort,Lonavala,Maharashtra,Fort,100,4.5,1,1,1,1,1,1,0,0,18.71,73.475
+Taj Mahal,Agra,Uttar Pradesh,Historical,250,4.8,1,1,1,0,1,0,0,0,27.1751,78.0421
+Agra Fort,Agra,Uttar Pradesh,Fort,100,4.5,1,1,1,0,1,0,0,0,27.1795,78.0211
+Mehtab Bagh,Agra,Uttar Pradesh,Garden,100,4.3,1,1,1,1,1,0,0,0,27.179,78.041
+Fatehpur Sikri,Agra,Uttar Pradesh,Historical,300,4.5,1,1,1,0,1,0,0,0,27.0945,77.6679
+Hawa Mahal,Jaipur,Rajasthan,Historical,100,4.5,1,1,1,0,1,0,0,0,26.9239,75.8267
+Amber Fort,Jaipur,Rajasthan,Fort,200,4.6,1,1,1,0,1,1,0,0,26.9855,75.8513
+City Palace,Jaipur,Rajasthan,Palace,200,4.4,1,1,1,0,1,0,0,0,26.9258,75.8237
+Jantar Mantar,Jaipur,Rajasthan,Historical,100,4.4,1,1,1,0,1,0,0,0,26.9248,75.8246
+India Gate,Delhi,Delhi,Monument,50,4.6,1,1,1,1,1,0,0,0,28.6129,77.2295
+Red Fort,Delhi,Delhi,Fort,100,4.5,1,1,1,0,1,0,0,0,28.6562,77.241
+Qutub Minar,Delhi,Delhi,Historical,100,4.5,1,1,1,0,1,0,0,0,28.5245,77.1855
+Lotus Temple,Delhi,Delhi,Temple,50,4.4,1,1,1,1,1,0,0,0,28.5535,77.2588
+Eravikulam National Park,Munnar,Kerala,Wildlife,200,4.5,1,1,1,1,0,1,0,0,10.203,77.062
+Mattupetty Dam,Munnar,Kerala,Dam,100,4.3,1,1,1,1,0,1,0,0,10.105,77.125
+Tea Museum,Munnar,Kerala,Museum,100,4.2,1,1,1,0,1,0,0,0,10.089,77.06
+Top Station,Munnar,Kerala,Viewpoint,100,4.5,1,1,1,1,0,1,0,0,10.124,77.248
+Lighthouse Beach,Kovalam,Kerala,Beach,100,4.4,1,1,1,1,0,1,0,1,8.383,76.978
+Hawa Beach,Kovalam,Kerala,Beach,50,4.2,1,1,1,1,0,0,0,1,8.389,76.978
+Samudra Beach,Kovalam,Kerala,Beach,50,4.1,1,1,1,1,0,0,0,1,8.401,76.978
+Varkala Cliff,Varkala,Kerala,Viewpoint,100,4.5,1,1,1,1,0,0,0,1,8.7379,76.7163
+Papanasam Beach,Varkala,Kerala,Beach,50,4.4,1,1,1,1,0,0,0,1,8.735,76.703
+Janardanaswamy Temple,Varkala,Kerala,Temple,50,4.4,1,1,1,0,1,0,0,0,8.735,76.716
+Charminar,Hyderabad,Telangana,Historical,100,4.5,1,1,1,0,1,0,0,1,17.3616,78.4747
+Golconda Fort,Hyderabad,Telangana,Fort,100,4.5,1,1,1,0,1,1,0,0,17.3833,78.4011
+Hussain Sagar,Hyderabad,Telangana,Lake,100,4.3,1,1,1,1,0,0,0,1,17.4239,78.4738
+Salar Jung Museum,Hyderabad,Telangana,Museum,200,4.4,1,1,1,0,1,0,0,0,17.3713,78.4804
+Visvesvaraya Museum,Bengaluru,Karnataka,Museum,Medium,4.5,1,1,1,0,1,0,0,0,12.9753,77.5963
+Jawaharlal Nehru Planetarium,Bengaluru,Karnataka,Science,Low,4.4,1,1,1,0,0,0,0,0,12.9879,77.585
+HAL Aerospace Museum,Bengaluru,Karnataka,Museum,Medium,4.4,1,1,1,0,1,0,0,0,12.9552,77.6807
+Ulsoor Lake,Bengaluru,Karnataka,Lake,Low,4.1,1,1,1,1,0,0,0,0,12.9817,77.6197
+Sankey Tank,Bengaluru,Karnataka,Lake,Low,4.2,1,1,1,1,0,0,0,0,13.0098,77.5724
+Bugle Rock Park,Bengaluru,Karnataka,Park,Low,4.2,1,1,1,1,1,0,0,0,12.9435,77.5685
+Dodda Ganapathi Temple,Bengaluru,Karnataka,Temple,Low,4.5,1,1,1,0,1,0,0,0,12.9432,77.5681
+Someshwara Temple,Bengaluru,Karnataka,Temple,Low,4.4,1,1,1,0,1,0,0,0,12.9756,77.6244
+Devanahalli Fort,Bengaluru,Karnataka,Fort,Low,4.0,1,1,1,0,1,0,0,0,13.2477,77.7136
+Thottikallu Falls,Bengaluru,Karnataka,Waterfall,Low,4.0,1,1,1,1,0,1,0,0,12.7905,77.5085
+Karanji Lake,Mysuru,Karnataka,Lake,Low,4.3,1,1,1,1,0,0,0,0,12.302,76.674
+Regional Museum of Natural History,Mysuru,Karnataka,Museum,Low,4.2,1,1,1,0,1,0,0,0,12.3028,76.6748
+Mysuru Rail Museum,Mysuru,Karnataka,Museum,Low,4.0,1,1,1,0,1,0,0,0,12.3127,76.645
+Jaganmohan Palace Art Gallery,Mysuru,Karnataka,Art Gallery,Low,4.2,1,1,1,0,1,0,0,0,12.3052,76.6552
+Kukkarahalli Lake,Mysuru,Karnataka,Lake,Low,4.2,1,1,1,1,0,0,0,0,12.3165,76.6317
+Regional Science Centre,Mysuru,Karnataka,Science,Low,4.1,1,1,1,0,0,0,0,0,12.2738,76.6634
+Talakadu,Mysuru,Karnataka,Historical Site,Low,4.1,1,1,1,0,1,0,0,0,12.1917,77.0274
+Somanathapura Temple,Mysuru,Karnataka,Temple,Low,4.7,1,1,1,0,1,0,0,0,12.275,76.895
+Cheluvanarayana Swamy Temple,Melukote,Karnataka,Temple,Low,4.5,1,1,1,0,1,0,0,0,12.6635,76.648
+Melukote Temple Hill,Melukote,Karnataka,Hill,Low,4.3,1,1,1,1,1,0,0,0,12.665,76.65
+Mandalpatti Viewpoint,Coorg,Karnataka,Viewpoint,Medium,4.5,1,1,1,1,0,1,0,0,12.457,75.673
+Nisargadhama,Coorg,Karnataka,Nature Park,Low,4.2,1,1,1,1,0,0,0,0,12.455,75.96
+Harangi Dam,Coorg,Karnataka,Dam,Low,4.0,1,1,1,1,0,0,0,0,12.456,75.872
+Iruppu Falls,Coorg,Karnataka,Waterfall,Low,4.5,1,1,1,1,0,1,0,0,11.966,75.99
+Tadiandamol Peak,Coorg,Karnataka,Mountain,Medium,4.6,0,1,1,1,0,1,0,0,12.235,75.646
+Nalknad Palace,Coorg,Karnataka,Historical Site,Low,4.0,1,1,1,0,1,0,0,0,12.235,75.646
+Chelavara Falls,Coorg,Karnataka,Waterfall,Low,4.2,1,1,1,1,0,1,0,0,12.214,75.789
+Kote Betta,Coorg,Karnataka,Mountain,Low,4.2,0,1,1,1,0,1,0,0,12.501,75.815
+Bhagamandala,Coorg,Karnataka,Pilgrimage Site,Low,4.3,1,1,1,0,1,0,0,0,12.392,75.528
+Talacauvery,Coorg,Karnataka,Pilgrimage Site,Low,4.5,1,1,1,1,1,0,0,0,12.386,75.489
+Hampi Archaeological Museum,Hampi,Karnataka,Museum,Low,4.0,1,1,1,0,1,0,0,0,15.335,76.46
+Queen's Bath,Hampi,Karnataka,Historical Site,Low,4.4,1,1,1,0,1,0,0,0,15.328,76.47
+Lotus Mahal,Hampi,Karnataka,Historical Site,Low,4.5,1,1,1,0,1,0,0,0,15.319,76.477
+Elephant Stables,Hampi,Karnataka,Historical Site,Low,4.5,1,1,1,0,1,0,0,0,15.32,76.477
+Hazara Rama Temple,Hampi,Karnataka,Temple,Low,4.5,1,1,1,0,1,0,0,0,15.32,76.478
+Achyutaraya Temple,Hampi,Karnataka,Temple,Low,4.4,1,1,1,0,1,0,0,0,15.326,76.484
+Sasivekalu Ganesha,Hampi,Karnataka,Monument,Low,4.4,1,1,1,0,1,0,0,0,15.332,76.46
+Underground Shiva Temple,Hampi,Karnataka,Temple,Low,4.2,1,1,1,0,1,0,0,0,15.328,76.471
+Anjanadri Hill,Hampi,Karnataka,Hill,Low,4.5,1,1,1,1,1,1,0,0,15.388,76.474
+Basilica of Bom Jesus,Goa,Goa,Church,Low,4.5,1,1,1,0,1,0,0,0,15.5009,73.9115
+Se Cathedral,Goa,Goa,Church,Low,4.4,1,1,1,0,1,0,0,0,15.503,73.912
+Fontainhas Latin Quarter,Goa,Goa,Heritage District,Low,4.4,1,1,1,0,1,0,1,1,15.45,73.831
+Reis Magos Fort,Goa,Goa,Fort,Low,4.3,1,1,1,0,1,0,0,0,15.5,73.9
+Chapora Fort,Goa,Goa,Fort,Low,4.3,1,1,1,1,1,0,0,0,15.603,73.739
+Vagator Beach,Goa,Goa,Beach,Low,4.4,1,1,1,1,0,1,0,1,15.597,73.744
+Palolem Beach,Goa,Goa,Beach,Medium,4.6,1,1,1,1,0,1,0,1,15.01,74.023
+Agonda Beach,Goa,Goa,Beach,Low,4.5,1,1,1,1,0,0,0,1,15.045,73.986
+Butterfly Beach,Goa,Goa,Beach,Medium,4.4,0,1,1,1,0,1,0,0,15.006,74.019
+Arambol Beach,Goa,Goa,Beach,Low,4.4,1,1,1,1,0,1,0,1,15.686,73.704
